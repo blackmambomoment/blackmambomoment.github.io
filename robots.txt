@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blackmambomoment.github.io/sitemap.xml
